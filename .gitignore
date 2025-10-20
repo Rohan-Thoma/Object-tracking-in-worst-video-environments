@@ -1,0 +1,9 @@
+Dataset/
+Object_Tracking/
+runs/
+yolo_dataset/
+new_dataset/
+pyproject.toml
+uv.lock
+yolo_dataset.cache
+yolo11n.pt

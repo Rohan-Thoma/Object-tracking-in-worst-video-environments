@@ -1,0 +1,5 @@
+train: final_data_files/train.txt
+val: final_data_files/val.txt
+
+nc: 5
+names: ["ADVISORY SPEED","DIRECTIONAL ARROW","DO NOT ENTER","STOP","WRONG WAY"] 

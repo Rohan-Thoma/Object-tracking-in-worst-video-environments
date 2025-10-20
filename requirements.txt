@@ -1,0 +1,7 @@
+pandas
+pillow
+ultralytics
+opencv-python
+matplotlib
+scikit-learn
+norfair
