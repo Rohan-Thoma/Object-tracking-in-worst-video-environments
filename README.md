@@ -5,7 +5,8 @@
 This project demonstrates a **robust end-to-end pipeline** for detecting and tracking road signs, even in **extremely low-FPS, low-quality video footage**.  
 Unlike conventional methods that rely solely on per-frame detection, this solution combines **a YOLOv11-based detector** with a **finely tuned Norfair tracking algorithm** to achieve **temporal consistency, ID stability, and smooth tracking** — even when objects briefly disappear or move abruptly between frames.
 
----
+![output](https://github.com/user-attachments/assets/b42de796-17e1-4c81-8706-06b510fa2007)
+
 
 ## 🧭 Table of Contents
 1. [Overview](#overview)
