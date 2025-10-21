@@ -1,6 +1,4 @@
-# 🚦 Road Sign Detection & Tracking
-
-### A Practical Approach to Reliable Tracking on Low-FPS Road Footage
+# 🚦 A Practical Approach to Reliable Tracking on Low-FPS videos (ft. Road Footage)
 
 This project demonstrates a **robust end-to-end pipeline** for detecting and tracking road signs, even in **extremely low-FPS, low-quality video footage**.  
 Unlike conventional methods that rely solely on per-frame detection, this solution combines **a YOLOv11-based detector** with a **finely tuned Norfair tracking algorithm** to achieve **temporal consistency, ID stability, and smooth tracking** — even when objects briefly disappear or move abruptly between frames.
